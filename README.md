@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-segundo-antes-del-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Un segundo antes del beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-antes-del-beso/) |
+| **Get License** | [Get License For Un segundo antes del beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-antes-del-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> Que la luna de Madrid es nuestro testigo
+> Una mirada tuya y el tiempo se detiene
+> Baby, tú tienes el flow que a mí me conviene
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
