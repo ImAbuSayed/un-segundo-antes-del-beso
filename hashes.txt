@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un segundo antes del beso
+
+This log tracks the cryptographic history and versioning for the song **Un segundo antes del beso** (un-segundo-antes-del-beso).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:48:28.501509 | `v1` | `351cb4d52bd02b378c034ea47202595367deeb6f9513708d4945485d48635154` | `acd21a1f11e401e026eb5948e2c60a06d6c390e962919b69f063ed5b3d60e95b` | `2026-06-14_un-segundo-antes-del-beso-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
