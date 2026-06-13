@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-segundo-antes-del-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Un segundo antes del beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-antes-del-beso/) |
+| **Get License** | [Get License For Un segundo antes del beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-segundo-antes-del-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3236)
 
 ---
 
